@@ -1,1 +1,5 @@
 .idea
+.data
+.env
+.html
+docker-compose.yml
