@@ -9,7 +9,11 @@
 
 See [Docker.com](https://www.docker.com/products/docker) for more information.
 
-### Useful commands
+### Getting Started
+
+copy .env.example to .env
+
+`$ cp .env.example .env`
 
 #### Start
 `$ docker-compose up -d`
